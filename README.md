@@ -1,28 +1,39 @@
-## Hello 👋
+## Cypher Keolis
 
-I'm **Cypher Keolis**, a self-taught developer based in France. I like to pick
-small, concrete ideas and turn them into little working programs — mostly in
-Python, mostly for the fun of learning something.
+Researcher working at the intersection of **quantum computing**, **medical AI**,
+and **computational science**. I build small, focused tools that solve real
+problems — every project here is designed to be immediately useful.
 
-A couple of things I've been working on:
+### Research areas
 
-- **fibgen** — a tiny CLI that prints the first `N` Fibonacci numbers (default 10). Tested with pytest.
-- **table-de-7** — a small program that prints the 7 times table. My first published project.
+- **Quantum noise modeling** — understanding how real quantum hardware degrades
+  quantum circuits, and building tools to simulate it accurately.
+- **Medical signal processing** — developing practical tools for ECG analysis
+  and cardiac health monitoring.
+- **Privacy-preserving ML** — implementing differentially private algorithms
+  that make machine learning safe for sensitive medical data.
 
-Nothing fancy — just a log of what I'm practicing. Each project gets written,
-run, tested and shipped before it lands here.
+### Projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| **[qnoise](https://github.com/cypherkeolis/qnoise)** | Quantum noise simulator for NISQ algorithms | Active |
+| **[ecg-kit](https://github.com/cypherkeolis/ecg-kit)** | ECG signal analysis toolkit (R-peak detection, HRV) | Active |
+| **[diffpriv-ml](https://github.com/cypherkeolis/diffpriv-ml)** | Differentially private ML utilities | Active |
+
+### Philosophy
+
+Good research tools should be:
+- **Small** — minimal code, maximum clarity
+- **Reproducible** — anyone can run them and verify results
+- **Citable** — proper documentation and references
 
 ### About me
 
-- 🔭 I'm currently exploring small CLI tools and simple Python utilities
-- 🌱 I'm learning proper testing and getting comfortable with GitHub Actions
-- 💬 Ask me about: Python, Linux, or why my scripts always break at 3am
+- 🔬 Currently exploring quantum error mitigation and cardiac arrhythmia detection
+- 🌱 Always learning: signal processing, quantum information theory, differential privacy
 - 📫 Contact: [cypherkeolis@gmail.com](mailto:cypherkeolis@gmail.com)
-
-### Stats
-
-![Cypher's GitHub stats](https://github-readme-stats.vercel.app/api?username=cypherkeolis&show_icons=true&hide_title=true)
 
 ---
 
-*A normal developer profile. Small tools, honest work.*
+*Research tools that work. Small code, real science.*
